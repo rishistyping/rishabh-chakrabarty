@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfilePage",
+      "@id": "https://rishistyping.github.io/rishabh-chakrabarty/#page",
+      "url": "https://rishistyping.github.io/rishabh-chakrabarty/",
+      "name": "Rishabh Chakrabarty",
+      "dateModified": "2026-08-20",
+      "mainEntity": {"@id": "https://rishistyping.github.io/rishabh-chakrabarty/#person"}
+    },
+    {
+      "@type": "Person",
+      "@id": "https://rishistyping.github.io/rishabh-chakrabarty/#person",
+      "name": "Rishabh Chakrabarty",
+      "alternateName": ["Rish Chakrabarty", "Rish", "Rishabh (Rish) Chakrabarty"],
+      "url": "https://rishistyping.github.io/rishabh-chakrabarty/",
+      "jobTitle": "Media artist and researcher",
+      "description": "Paris-based media artist and researcher working on NeuroAI, immersive installations, and stereo-3D generative models. Artist of For All Mankind (Bright Festival 2024; NeurIPS 2024 Creative AI).",
+      "sameAs": [
+        "https://orcid.org/0000-0002-2726-4618",
+        "https://scholar.google.com/citations?user=bm-ipLEAAAAJ",
+        "https://github.com/rishistyping",
+        "https://www.linkedin.com/in/rishistyping",
+        "https://www.brightfestival.com/art_event/for-all-mankind-rishabh-chakrabarty/",
+        "https://neurips.cc/virtual/2024/105442"
+      ]
+    }
+  ]
+}
